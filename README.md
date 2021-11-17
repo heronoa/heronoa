@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heronoa
-- 👀 I’m interested in Web Design with html, css, javascript and bootstrap 4 and Data Science with Python
-- 🌱 I’m currently learning Python, html, css and javascript 
-- 💞️ I would be happy collaborating on scientific research and game projects 
+- 👀 I’m interested in Web Design with html, css, javascript
+- 🌱 I’m currently learning html, css and javascript 
+- 💞️ I would be happy collaborating on web development, scientific research and game projects 
 - 📫 How to reach me: heron.amaral@gmail.com
 
 <!---
