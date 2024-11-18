@@ -68,11 +68,12 @@ I'm a developer passionate about solving complex problems and building efficient
 ---
 
 ## 🚀 **Currently Working On As Hobby**
-- 🔄 **[Microservices System](https://github.com/heronoa/turnbased-pvp-colyseus)**  
+- 🔄 **[Microservices System](https://github.com/heronoa/rabbitmq-getting-start)**  
   *An architecture based on independent services for orders and products with RabbitMQ queues for asynchronous communication.*  
-- ⚔️ **[Real-Time Battle Game](https://github.com/heronoa/rabbitmq-getting-start)**  
+- ⚔️ **[Real-Time Battle Game Server in Node.js](https://github.com/heronoa/turnbased-pvp-colyseus)**  
   *A multiplayer turn-based game using sockets and Colyseus.js*.
-
+- ⚔️ **[Real-Time Battle Game Interface in Vue.js](https://github.com/heronoa/vuejs-turnbased-game)**  
+  *A multiplayer turn-based game using sockets and Colyseus.js*.
 ---
 
 ## 📫 **How to Reach Me**
