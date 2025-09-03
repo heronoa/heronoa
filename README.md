@@ -8,8 +8,28 @@ I'm a developer passionate about solving complex problems and building efficient
 - 🎓 **Student of Analysis and Systems Development**  
 - 💻 **Software Engineer**  
 - ❤️ **Passionate About Technology**  
-- 🌐 **Developer of APIs and Web Apps**  
+- 🌐 **Developer of APIs, Web Apps and Mobile(Android/IOS) Apps**  
 
+
+## 🚀 **Currently Working On As Hobby**
+- 🌕 **[2D Game in Lua using LÖVE](https://github.com/heronoa/2d_lua_test)**
+  *A boilerplate for a 2D game develop in Lua, implementing movement, mouse tracking and sprite animation*  
+- 📱 **[Flutter Short Link App](https://github.com/heronoa/flutter-short-link-app)**
+  *A simple app to practice flutter, the app should manage and convert big urls in short links*  
+- 🔄 **[Microservices System](https://github.com/heronoa/rabbitmq-getting-start)**  
+  *An architecture based on independent services for orders and products with RabbitMQ queues for asynchronous communication.*  
+- ⚔️ **[Real-Time Battle Game Server in Node.js](https://github.com/heronoa/turnbased-pvp-colyseus)**  
+  *A multiplayer turn-based game using sockets and Colyseus.js*.
+- ⚔️ **[Real-Time Battle Game Interface in Vue.js](https://github.com/heronoa/vuejs-turnbased-game)**  
+  *A multiplayer turn-based game using sockets and Colyseus.js*.
+---
+
+## 📫 **How to Reach Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/heron-amaral-49a9a1179/))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heron.amaral@gmail.com)  
+[![Portfolio](https://www.heronoa.tech/)
+
+---
 
 ## 📊 **Most Used Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heronoa&layout=compact&theme=radical)
@@ -67,20 +87,5 @@ I'm a developer passionate about solving complex problems and building efficient
 
 ---
 
-## 🚀 **Currently Working On As Hobby**
-- 🔄 **[Microservices System](https://github.com/heronoa/rabbitmq-getting-start)**  
-  *An architecture based on independent services for orders and products with RabbitMQ queues for asynchronous communication.*  
-- ⚔️ **[Real-Time Battle Game Server in Node.js](https://github.com/heronoa/turnbased-pvp-colyseus)**  
-  *A multiplayer turn-based game using sockets and Colyseus.js*.
-- ⚔️ **[Real-Time Battle Game Interface in Vue.js](https://github.com/heronoa/vuejs-turnbased-game)**  
-  *A multiplayer turn-based game using sockets and Colyseus.js*.
----
-
-## 📫 **How to Reach Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/heron-amaral-49a9a1179/))  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heron.amaral@gmail.com)  
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com) -->
-
----
 
 ![](https://komarev.com/ghpvc/?username=heronoa&color=blue&style=flat)  
