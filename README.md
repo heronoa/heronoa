@@ -10,7 +10,10 @@ Before changing code, I measure. Before trusting data, I query the database.
 
 ## Now
 
-- 🎮 **[crash-arena](https://github.com/heronoa/crash-arena)**: real-time crash game backend with provably fair rounds (HMAC). NestJS, MikroORM, PostgreSQL, WebSockets and SQS/SNS on AWS, with ECS Fargate behind a load balancer that scales down without dropping players. All infrastructure in Terraform. *Work in progress, built in public: every change goes through a PR.*
+- 🎮 **[eldritch-alley](https://github.com/heronoa/eldritch-alley)**: browser-based, turn-based tactics game on isometric city maps with elevation. *Early development, built in public.*
+  - Deterministic battle engine in plain TypeScript: seeded RNG, integer-only math, matches as event streams (replays and reconnection by replaying events)
+  - Server-authoritative multiplayer with Colyseus; NestJS platform API for accounts, rating and match history; rating-based matchmaking on Redis
+  - Phaser client with pixel art; backend on AWS (ECS behind a load balancer), frontend on Cloudflare
 - 🌐 **[heronoa.com.br](https://heronoa.com.br)**: my portfolio, with case studies told as replays. Static site on Cloudflare, deployed by GitHub Actions ([source](https://github.com/heronoa/heron-portfolio)).
 
 ## Selected projects
